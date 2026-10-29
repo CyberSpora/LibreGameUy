@@ -1,6 +1,10 @@
 # LibreGameUy
 Es un videojuego de parte de librecourseuy.
 
+
+## Concept
+The video-game is a competitive multiplayer experience centered around the suburbs of Montevideo and the ñeris who inhabit them, the objective is to become the ñeri who controls all the hoods by fighting other players, npcs and completing secondary missions to earn resources, the visual style of the game is a low-poly 3d environment with intermediate realism, the map will we made of the most dangerous hoods stitched together into the most hostile suburb of them all! the themes and topics in this game will require a mature audience of 17+ years old due to the mentions of drugs and violence.
+
 ## Desarrollo
 This repository serves as a quickstart template for GDExtension development with Godot 4.0+.
 
